@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7/trunk/C%23/ProyectSource%20Library/ProyectSource%20Library/External_Libs/7zip/Compress/LZMA
+END
+LzmaBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7/trunk/C%23/ProyectSource%20Library/ProyectSource%20Library/External_Libs/7zip/Compress/LZMA/LzmaBase.cs
+END
+LzmaEncoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7/trunk/C%23/ProyectSource%20Library/ProyectSource%20Library/External_Libs/7zip/Compress/LZMA/LzmaEncoder.cs
+END
+LzmaDecoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7/trunk/C%23/ProyectSource%20Library/ProyectSource%20Library/External_Libs/7zip/Compress/LZMA/LzmaDecoder.cs
+END
